@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment & temporary files
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+
+# Build output cache
+*.tsbuildinfo
+
+# Keep dist for immediate zero-config execution
+!mcp-server/dist/

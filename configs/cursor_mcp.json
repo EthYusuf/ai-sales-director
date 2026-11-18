@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ecommerce-hunter": {
+      "command": "node",
+      "args": [
+        "c:/Users/yusuf/OneDrive/Desktop/printtomoney/autormaiton/mcp-server/dist/index.js"
+      ]
+    }
+  }
+}

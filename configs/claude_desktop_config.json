@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "ecommerce-hunter": {
+      "command": "node",
+      "args": [
+        "c:/Users/yusuf/OneDrive/Desktop/printtomoney/autormaiton/mcp-server/dist/index.js"
+      ],
+      "env": {},
+      "disabled": false,
+      "autoApprove": [
+        "analyze_product_viability",
+        "recommend_target_countries",
+        "generate_ad_channel_strategy",
+        "calculate_ecommerce_unit_economics",
+        "get_ecommerce_playbook"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# E-Commerce Winning Product & Ad Strategy Rules
+
+When the user types `/benim` or asks about e-commerce products, dropshipping, winning products, target countries, or ad platforms:
+1. Trigger the e-commerce winning product framework.
+2. Evaluate:
+   - 7 Pillars Winning Score (0-100)
+   - Target country viability (Tier 1 US/UK/CA/AU vs GCC)
+   - Ad platform fit (TikTok Ads vs Meta/Instagram vs Google Shopping vs Pinterest)
+   - 3-second viral video hook & full 30-second ad script
+   - Unit economics (Break-even ROAS & Maximum CPA)
+3. If MCP `ecommerce-hunter` is configured, call its tools for real-time calculations.
